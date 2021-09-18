@@ -1,4 +1,4 @@
-<img align="right" alt="jojo-yoda" height="150" width="150" src="https://cdn.discordapp.com/attachments/759938458487226369/888614869987909682/jojogif.gif">
+<img align="right" alt="jojo-gif" height="160" width="160" src="https://cdn.discordapp.com/attachments/759938458487226369/888614869987909682/jojogif.gif">
 
 ### Hi! I'm Joanne, but you can call me JOJO ✨
 
