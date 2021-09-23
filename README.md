@@ -24,11 +24,11 @@
   <img align="center" alt="jojo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
   <img align="center" alt="jojo-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+  
+   ![Snake animation](https://github.com/joannestephany/joannestephany/blob/output/github-contribution-grid-snake.svg)
  </div>
   
   ##
-
-    ![Snake animation](https://github.com/joannestephany/joannestephany/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 by : jojo ✨
