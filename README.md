@@ -1,10 +1,29 @@
-<img align="right" alt="jojo-gif" height="160" width="160" src="https://cdn.discordapp.com/attachments/759938458487226369/888614869987909682/jojogif.gif">
+<img align="right" alt="jojo-gif" height="200" width="200" src="https://cdn.discordapp.com/attachments/759938458487226369/888614869987909682/jojogif.gif" >
+<!-- <img align="right" alt="jojo-gif" height="145" width="145" src="https://media.giphy.com/media/YPJ5gi3MZzSjhtQTIk/giphy.gif" >  -->
 
-### Hi! I'm Joanne, but you can call me JOJO ✨
+<h1 align="center"> Hi! I'm Joanne, but you can call me JOJO ✨</h1>
 
-- I'm a developer from Brazil 🇧🇷
-- I'm looking to learn more about programming every day. 💻
-- I'm a student of Information Systems at the Federal University of Sergipe 👩‍🎓
+<!-- ### Hi! I'm Joanne, but you can call me JOJO -->
+
+<a href="https://www.instagram.com/joannestephany/">
+  <img align="left" alt="Joanne's Instagram" width="23px" src="https://cdn.icon-icons.com/icons2/2037/PNG/512/ig_instagram_media_social_icon_124260.png" />
+</a>
+<a href="https://twitter.com/joannestephany">
+  <img align="left" alt="Janne Stephany | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/joannestephany/">
+  <img align="left" alt="Joanne's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://open.spotify.com/user/28sf6rxvda9tip8qgi3d229jp?si=Hs84h38kRa6O5DaohCEaZw">
+  <img align="left" alt="Joanne's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+</a>
+
+![](https://visitor-badge.glitch.me/badge?page_id=joannestephany.joannestephany)
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=joannestephany" alt="joannestephany" /> </p> -->
+
+- I'm a developer from **Brazil** 🇧🇷
+- I'm looking to learn more about programming every day. 💻<img width="25px" src="https://media.giphy.com/media/xT9IgjNENUaf4ypqBa/giphy.gif" />
+- **I'm a student of Information Systems at the Federal University of Sergipe** 👩‍🎓
 
 ##
 
