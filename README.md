@@ -2,7 +2,7 @@
 <!-- <img align="right" alt="jojo-gif" height="145" width="145" src="https://media.giphy.com/media/YPJ5gi3MZzSjhtQTIk/giphy.gif" >  -->
 
 <h1 align="center"> Hi! I'm Joanne, but you can call me JOJO ✨</h1>
-<img align="right" padding="0" alt="nyan-cat-gif" width="190" src="https://media.giphy.com/media/mTs11L9uuyGiI/giphy.gif">
+<img align="right" padding-left="0" alt="nyan-cat-gif" width="180" src="https://media.giphy.com/media/mTs11L9uuyGiI/giphy.gif">
 <!-- ### Hi! I'm Joanne, but you can call me JOJO -->
 
 <a href="https://www.instagram.com/joannestephany/">
