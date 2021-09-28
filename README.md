@@ -7,20 +7,22 @@
 <h1 align="center"> Hi! I'm Joanne, but you can call me JOJO ✨</h1>
 <img align="right" padding-left="0" alt="nyan-cat-gif" width="180" src="https://media.giphy.com/media/mTs11L9uuyGiI/giphy.gif">
 <!-- ### Hi! I'm Joanne, but you can call me JOJO -->
+<div align="left" style="display: inline_block"><br>
+  <a href="https://www.instagram.com/joannestephany/">
+    <img align="left" alt="Joanne's Instagram" width="23px" src="https://cdn.icon-icons.com/icons2/2037/PNG/512/ig_instagram_media_social_icon_124260.png" />
+  </a>
+  <a href="https://twitter.com/joannestephany">
+    <img align="left" alt="Janne Stephany | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  </a>
+  <a href="https://www.linkedin.com/in/joannestephany/">
+    <img align="left" alt="Joanne's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  </a>
+  <a href="https://open.spotify.com/user/28sf6rxvda9tip8qgi3d229jp?si=Hs84h38kRa6O5DaohCEaZw">
+    <img align="left" alt="Joanne's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+  </a>
+</div>
 
-<a href="https://www.instagram.com/joannestephany/">
-  <img align="left" alt="Joanne's Instagram" width="23px" src="https://cdn.icon-icons.com/icons2/2037/PNG/512/ig_instagram_media_social_icon_124260.png" />
-</a>
-<a href="https://twitter.com/joannestephany">
-  <img align="left" alt="Janne Stephany | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/joannestephany/">
-  <img align="left" alt="Joanne's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://open.spotify.com/user/28sf6rxvda9tip8qgi3d229jp?si=Hs84h38kRa6O5DaohCEaZw">
-  <img align="left" alt="Joanne's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
- 	
+
 &nbsp;
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=joannestephany" alt="joannestephany" /> </p> -->
 
