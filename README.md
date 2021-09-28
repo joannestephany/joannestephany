@@ -20,7 +20,8 @@
 <a href="https://open.spotify.com/user/28sf6rxvda9tip8qgi3d229jp?si=Hs84h38kRa6O5DaohCEaZw">
   <img align="left" alt="Joanne's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
-
+ 	
+&nbsp;
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=joannestephany" alt="joannestephany" /> </p> -->
 
 - I'm a developer from **Brazil** 🇧🇷
