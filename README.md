@@ -2,7 +2,7 @@
 <!-- <img align="right" alt="jojo-gif" height="145" width="145" src="https://media.giphy.com/media/YPJ5gi3MZzSjhtQTIk/giphy.gif" >  -->
 
 <h1 align="center"> Hi! I'm Joanne, but you can call me JOJO ✨</h1>
-
+<img align="right" alt="jojo-gif" height="170" width="200" src="https://media.giphy.com/media/12kSpsUT4J8Dzq/giphy.gif">
 <!-- ### Hi! I'm Joanne, but you can call me JOJO -->
 
 <a href="https://www.instagram.com/joannestephany/">
