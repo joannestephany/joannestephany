@@ -1,3 +1,6 @@
+
+![](https://visitor-badge.glitch.me/badge?page_id=joannestephany.joannestephany)
+
 <img align="right" alt="jojo-gif" height="200" width="200" src="https://cdn.discordapp.com/attachments/759938458487226369/888614869987909682/jojogif.gif" >
 <!-- <img align="right" alt="jojo-gif" height="145" width="145" src="https://media.giphy.com/media/YPJ5gi3MZzSjhtQTIk/giphy.gif" >  -->
 
@@ -18,7 +21,6 @@
   <img align="left" alt="Joanne's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=joannestephany.joannestephany)
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=joannestephany" alt="joannestephany" /> </p> -->
 
 - I'm a developer from **Brazil** 🇧🇷
