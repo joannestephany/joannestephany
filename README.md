@@ -17,9 +17,7 @@
   <a href="https://www.linkedin.com/in/joannestephany/">
     <img align="left" alt="Joanne's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
   </a>
-  <a href="https://open.spotify.com/user/28sf6rxvda9tip8qgi3d229jp?si=Hs84h38kRa6O5DaohCEaZw">
-    <img align="left" alt="Joanne's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-  </a>
+
 </div>
 
 
