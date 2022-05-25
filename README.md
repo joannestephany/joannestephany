@@ -1,7 +1,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=joannestephany.joannestephany)
 
-<img align="right" alt="jojo-gif" height="200" width="200" src="https://cdn.discordapp.com/attachments/759938458487226369/888614869987909682/jojogif.gif" >
+<img align="right" alt="jojo-gif" height="180" width="180" src="https://cdn.discordapp.com/attachments/759938458487226369/888614869987909682/jojogif.gif" >
 <!-- <img align="right" alt="jojo-gif" height="145" width="145" src="https://media.giphy.com/media/YPJ5gi3MZzSjhtQTIk/giphy.gif" >  -->
 
 <h1 align="center"> Hi! I'm Joanne, but you can call me JOJO ✨</h1>
