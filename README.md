@@ -7,7 +7,7 @@
 <h1 align="center"> Hi! I'm Joanne, but you can call me JOJO ✨</h1>
 <!--<img align="right" padding-left="0" alt="nyan-cat-gif" width="180" src="https://media.giphy.com/media/mTs11L9uuyGiI/giphy.gif">-->
 <!-- ### Hi! I'm Joanne, but you can call me JOJO -->
-<!--<img align="right" alt="jojo-gif" height="180" width="180" src="https://cdn.discordapp.com/attachments/759938458487226369/888614869987909682/jojogif.gif" >-->
+<img align="right" alt="jojo-gif" height="180" width="180" src="https://cdn.discordapp.com/attachments/759938458487226369/888614869987909682/jojogif.gif" >
 <div align="left" style="display: inline_block"><br>
   <a href="https://www.instagram.com/joannestephany/">
     <img align="left" alt="Joanne's Instagram" width="23px" src="https://cdn.icon-icons.com/icons2/2037/PNG/512/ig_instagram_media_social_icon_124260.png" />
@@ -26,7 +26,7 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=joannestephany" alt="joannestephany" /> </p> -->
 
 - I'm a developer from **Brazil** 🇧🇷
-- I'm looking to learn more about programming every day. 💻<img width="25px" src="https://media.giphy.com/media/xT9IgjNENUaf4ypqBa/giphy.gif" />
+- I'm looking to learn more about programming every day. 💻 <!-- <img width="25px" src="https://media.giphy.com/media/xT9IgjNENUaf4ypqBa/giphy.gif" /> -->
 - **I'm a student of Information Systems at the Federal University of Sergipe** 👩‍🎓
 
 ##
