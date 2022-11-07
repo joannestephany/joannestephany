@@ -1,6 +1,6 @@
 ![Visitors on this repo](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=joannestephany.joannestephany&color=7B68EE&style=for-the-badge&logo=Github)
 
-<img align="right" alt="jojo-gif" height="145" width="145" src="https://media.giphy.com/media/YPJ5gi3MZzSjhtQTIk/giphy.gif" >
+<!--img align="right" alt="jojo-gif" height="145" width="145" src="https://media.giphy.com/media/YPJ5gi3MZzSjhtQTIk/giphy.gif" -->
 
 <h1 align="center"> Hi! I'm Joanne, but you can call me JOJO ✨</h1>
 <!--<img align="right"padding-left="0" alt="nyan-cat-gif" width="180" src="https://media.giphy.com/media/mTs11L9uuyGiI/giphy.gif">-->
