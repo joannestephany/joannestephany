@@ -1,4 +1,6 @@
 ![Visitors on this repo](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=joannestephany.joannestephany&color=7B68EE&style=for-the-badge&logo=Github)
+ <a href="https://www.linkedin.com/in/joannestephany/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:joannestephany@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 <!--img align="right" alt="jojo-gif" height="145" width="145" src="https://media.giphy.com/media/YPJ5gi3MZzSjhtQTIk/giphy.gif" -->
 
