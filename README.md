@@ -20,26 +20,9 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joannestephany&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
-<div align="center" style="display: inline_block"><br>
-  <img align="center" alt="jojo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="jojo-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="jojo-Cpp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="jojo-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-  <img align="center" alt="jojo-dotNET" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
-  <img align="center" alt="jojo-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="jojo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
-  <!--img align="center" alt="jojo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"-->
+<div align="center"> 
   
-  <img align="center" alt="jojo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="jojo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
-  <img align="center" alt="jojo-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-  <img align="center" alt="jojo-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  
-  
-  <img align="center" alt="jojo-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="jojo-Oracle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
-  
+![skills](https://skillicons.dev/icons?i=c,cpp,cs,dotnet,java,py,javascript,html,css,mysql,md,git,figma,vscode,visualstudio&theme=dark)
 </div>
 
   <div align="center">
@@ -50,43 +33,12 @@
         <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quotes card">
     </a>
 </details>
- </div>
-  
-<h2>:octocat: My GitHub Stats</h2>
-<img align="right"padding-left="0" alt="nyan-cat-gif" width="180" src="https://media.giphy.com/media/mTs11L9uuyGiI/giphy.gif">
-<details>
-<summary>Top languages</summary>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img height=180em src="https://github-readme-stats-carol42.vercel.app/api/top-langs/?username=joannestephany&theme=tokyonight&hide_border=true&layout=compact&custom_title=Most+Used+Languages*&langs_count=10" alt="most used languages" />
-        <img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joannestephany&theme=tokyonight"/>
-    </a>
-    <p><b>*Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
-</details>
-<details>
-<summary>Streak stats</summary>
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-        <img height=180em src="https://carol42-github-streak-stats.herokuapp.com/?user=joannestephany&theme=defaut&hide_border=true" alt="streak stats"/>
-    </a>
-</details>
-  
-<details>
-<summary>Contribution Graph</summary>
-<a href="https://github.com/joannestephany">
-  <img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joannestephany&theme=tokyonight"/>
-</a>
-</details>
-<details>
-<summary>Achievements</summary>
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img alt="github achievements" src="https://github-profile-trophy.vercel.app/?username=joannestephany&theme=tokyonight&no-frame=true&column=7">
-</a>
-</details>
+</div>
+<div align="center">
 
+   ![Snake animation](https://github.com/joannestephany/joannestephany/blob/output/github-contribution-grid-snake.svg)
 
- <div align="center">
- ![Snake animation](https://github.com/joannestephany/joannestephany/blob/output/github-contribution-grid-snake.svg)
- </div>
-
+</div>
 <!--
 by : jojo ✨ UWU
 -->
