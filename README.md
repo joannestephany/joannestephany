@@ -1,10 +1,12 @@
 ![Visitors on this repo](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=joannestephany.joannestephany&color=7B68EE&style=for-the-badge&logo=Github)
- <a href="https://www.linkedin.com/in/joannestephany/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:joannestephany@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/joannestephany/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href = "mailto:joannestephany@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-<!--img align="right" alt="jojo-gif" height="145" width="145" src="https://media.giphy.com/media/YPJ5gi3MZzSjhtQTIk/giphy.gif" -->
+![wavetop](https://user-images.githubusercontent.com/82146140/177695541-fbee7a11-8763-49a8-a520-416cc9a5b97c.svg)
 
-<h1 align="center"> Hi! I'm Joanne, but you can call me JOJO ✨</h1>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=6463FF&multiline=true&width=435&height=70&lines=+Hi!+I'm+Joanne...;but+you+can+call+me+%E2%9C%A8JOJO%E2%9C%A8+)](https://git.io/typing-svg)
+
 <!--<img align="right"padding-left="0" alt="nyan-cat-gif" width="180" src="https://media.giphy.com/media/mTs11L9uuyGiI/giphy.gif">-->
 <!-- ### Hi! I'm Joanne, but you can call me JOJO -->
 
@@ -71,6 +73,9 @@
   <img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joannestephany&theme=tokyonight"/>
     
 </div>
+
+![wave](https://user-images.githubusercontent.com/82146140/177694992-9277afcb-e818-4712-b2a9-ab167d718991.svg)
+
 <!--
 by : jojo ✨ UWU
 -->
