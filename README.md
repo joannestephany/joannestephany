@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/joannestephany/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href = "mailto:joannestephany@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-![Header](./joanne-header-image-name.png)
+![Header](./joanne-header-image.png)
 
 <img align="right" alt="jojo-gif" height="130" width="130" src="https://cdn.discordapp.com/attachments/759938458487226369/888614869987909682/jojogif.gif" >
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=6463FF&multiline=true&width=435&height=70&lines=+Hi!+I'm+Joanne...;but+you+can+call+me+%E2%9C%A8JOJO%E2%9C%A8+" alt="Typing SVG" /></a>
