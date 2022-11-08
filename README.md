@@ -2,32 +2,13 @@
 <a href="https://www.linkedin.com/in/joannestephany/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href = "mailto:joannestephany@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-![wavetop](https://user-images.githubusercontent.com/82146140/177695541-fbee7a11-8763-49a8-a520-416cc9a5b97c.svg)
-
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=6463FF&multiline=true&width=435&height=70&lines=+Hi!+I'm+Joanne...;but+you+can+call+me+%E2%9C%A8JOJO%E2%9C%A8+)](https://git.io/typing-svg)
-
-<!--<img align="right"padding-left="0" alt="nyan-cat-gif" width="180" src="https://media.giphy.com/media/mTs11L9uuyGiI/giphy.gif">-->
-<!-- ### Hi! I'm Joanne, but you can call me JOJO -->
+![Header](./joanne-header-image-name.png)
 
 <img align="right" alt="jojo-gif" height="130" width="130" src="https://cdn.discordapp.com/attachments/759938458487226369/888614869987909682/jojogif.gif" >
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=6463FF&multiline=true&width=435&height=70&lines=+Hi!+I'm+Joanne...;but+you+can+call+me+%E2%9C%A8JOJO%E2%9C%A8+" alt="Typing SVG" /></a>
 
-<div align="left" style="display: inline_block"><br>
-  <a href="https://www.instagram.com/joannestephany/">
-    <img align="left" alt="Joanne's Instagram" width="23px" src="https://cdn.icon-icons.com/icons2/2037/PNG/512/ig_instagram_media_social_icon_124260.png" />
-  </a>
-  <a href="https://twitter.com/joannestephany">
-    <img align="left" alt="Janne Stephany | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-  </a>
-  <a href="https://www.linkedin.com/in/joannestephany/">
-    <img align="left" alt="Joanne's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-  </a>
-
-</div>
-
-
+<!-- ### Hi! I'm Joanne, but you can call me JOJO -->
 &nbsp;
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=joannestephany" alt="joannestephany" /> </p> -->
 
 - I'm a developer from **Brazil** 🇧🇷
 - I'm looking to learn more about programming every day. 💻 <!-- <img width="25px" src="https://media.giphy.com/media/xT9IgjNENUaf4ypqBa/giphy.gif" /> -->
@@ -61,20 +42,44 @@
   <img align="center" alt="jojo-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="jojo-Oracle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
   
-  
-   ![Snake animation](https://github.com/joannestephany/joannestephany/blob/output/github-contribution-grid-snake.svg)
- </div>
-  
-  ##
-<div align="center">
-  
-  <a href="https://github.com/joannestephany">
-  <img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joannestephany&theme=tokyonight"/>
-  <img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joannestephany&theme=tokyonight"/>
-    
 </div>
+  
+  
+  
+<h2>:octocat: My GitHub Stats</h2>
+<img align="right"padding-left="0" alt="nyan-cat-gif" width="180" src="https://media.giphy.com/media/mTs11L9uuyGiI/giphy.gif">
+<details>
+<summary>Top languages</summary>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img height=180em src="https://github-readme-stats-carol42.vercel.app/api/top-langs/?username=joannestephany&theme=tokyonight&hide_border=true&layout=compact&custom_title=Most+Used+Languages*&langs_count=10" alt="most used languages" />
+        <img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joannestephany&theme=tokyonight"/>
+    </a>
+    <p><b>*Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
+</details>
+<details>
+<summary>Streak stats</summary>
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+        <img height=180em src="https://carol42-github-streak-stats.herokuapp.com/?user=joannestephany&theme=defaut&hide_border=true" alt="streak stats"/>
+    </a>
+</details>
+  
+<details>
+<summary>Contribution Graph</summary>
+<a href="https://github.com/joannestephany">
+  <img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joannestephany&theme=tokyonight"/>
+</a>
+</details>
+<details>
+<summary>Achievements</summary>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img alt="github achievements" src="https://github-profile-trophy.vercel.app/?username=joannestephany&theme=tokyonight&no-frame=true&column=7">
+</a>
+</details>
 
-![wave](https://user-images.githubusercontent.com/82146140/177694992-9277afcb-e818-4712-b2a9-ab167d718991.svg)
+
+  
+ ![Snake animation](https://github.com/joannestephany/joannestephany/blob/output/github-contribution-grid-snake.svg)
+ 
 
 <!--
 by : jojo ✨ UWU
