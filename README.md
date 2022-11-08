@@ -2,13 +2,15 @@
 <a href="https://www.linkedin.com/in/joannestephany/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href = "https://twitter.com/joannestephany"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href = "mailto:joannestephany@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+<a href = "https://www.buymeacoffee.com/joannestephany"><img src="https://img.shields.io/badge/Buymeacoffee-%23FFDD00.svg?&style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" target="_blank"></a>
+
 
 <img align="right" alt="jojo-gif" height="150" width="150" src="https://cdn.discordapp.com/attachments/759938458487226369/888614869987909682/jojogif.gif" >
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=6463FF&multiline=true&width=435&height=70&lines=+Hi!+I'm+Joanne...;but+you+can+call+me+%E2%9C%A8JOJO%E2%9C%A8+" alt="Typing SVG" /></a>
 
 <!-- ### Hi! I'm Joanne, but you can call me JOJO -->
 
--  🇧🇷 I'm a developer from **Brazil**
+- 🇧🇷 I'm a developer from **Brazil**
 - 💻 I'm looking to learn more about programming every day.  <!-- <img width="25px" src="https://media.giphy.com/media/xT9IgjNENUaf4ypqBa/giphy.gif" /> -->
 - 👩‍🎓 **I'm a student of Information Systems at the Federal University of Sergipe** 
 - 💕 CMO at @ [ItatechJr](https://www.linkedin.com/company/itatechjr)
