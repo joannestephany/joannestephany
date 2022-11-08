@@ -8,17 +8,13 @@
 
 <!-- ### Hi! I'm Joanne, but you can call me JOJO -->
 
-- I'm a developer from **Brazil** 🇧🇷
-- I'm looking to learn more about programming every day. 💻 <!-- <img width="25px" src="https://media.giphy.com/media/xT9IgjNENUaf4ypqBa/giphy.gif" /> -->
-- **I'm a student of Information Systems at the Federal University of Sergipe** 👩‍🎓
-&nbsp;
+-  🇧🇷 I'm a developer from **Brazil**
+- 💻 I'm looking to learn more about programming every day.  <!-- <img width="25px" src="https://media.giphy.com/media/xT9IgjNENUaf4ypqBa/giphy.gif" /> -->
+- 👩‍🎓 **I'm a student of Information Systems at the Federal University of Sergipe** 
+- 💕 CMO at @ [ItatechJr](https://www.linkedin.com/company/itatechjr)
+- 🧠 Developer at at @ [Sinu-Tech](https://github.com/Sinu-Tech)
 ##
 
-<div align="center">
-  <a href="https://github.com/joannestephany">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=joannestephany&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joannestephany&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
   
 <div align="center"> 
   
@@ -33,12 +29,12 @@
         <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quotes card">
     </a>
 </details>
-</div>
-<div align="center">
+ </div>
 
-   ![Snake animation](https://github.com/joannestephany/joannestephany/blob/output/github-contribution-grid-snake.svg)
 
-</div>
+ ![Snake animation](https://github.com/joannestephany/joannestephany/blob/output/github-contribution-grid-snake.svg)
+
+
 <!--
 by : jojo ✨ UWU
 -->
