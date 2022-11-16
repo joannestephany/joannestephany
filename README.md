@@ -18,21 +18,16 @@
 ##
 
   
+<div align="center">
+  <a href="https://github.com/piyushsuthar/github-readme-quotes">
+     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quotes card">
+  </a>
+</div>
+
 <div align="center"> 
   
 ![skills](https://skillicons.dev/icons?i=c,cpp,cs,dotnet,java,py,javascript,html,css,mysql,md,git,figma,vscode,visualstudio&theme=dark)
 </div>
-
-  <div align="center">
-  <h2>:thought_balloon: Quote of the day</h2>
-<details open>
-<summary>See quote</summary>
-    <a href="https://github.com/piyushsuthar/github-readme-quotes">
-        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quotes card">
-    </a>
-</details>
- </div>
-
 
  ![Snake animation](https://github.com/joannestephany/joannestephany/blob/output/github-contribution-grid-snake.svg)
 
