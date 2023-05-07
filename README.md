@@ -1,4 +1,4 @@
-![Visitors on this repo](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=joannestephany.joannestephany&color=7B68EE&style=for-the-badge&logo=Github)
+<!-- ![Visitors on this repo](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=joannestephany.joannestephany&color=7B68EE&style=for-the-badge&logo=Github) -->
 <a href="https://www.linkedin.com/in/joannestephany/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href = "https://twitter.com/joannestephany"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href = "mailto:joannestephany@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
@@ -13,8 +13,8 @@
 - 🇧🇷 I'm a developer from **Brazil**
 - 💻 I'm looking to learn more about programming every day.  <!-- <img width="25px" src="https://media.giphy.com/media/xT9IgjNENUaf4ypqBa/giphy.gif" /> -->
 - 👩‍🎓 **I'm a student of Information Systems at the Federal University of Sergipe** 
-- 💕 CMO at @ [ItatechJr](https://www.linkedin.com/company/itatechjr)
-- 🧠 Developer at at @ [Sinu-Tech](https://github.com/Sinu-Tech)
+- 🧠 Developer at @ [Sinu-Tech](https://github.com/Sinu-Tech)
+- 🧠 Leader of [Code Queens](https://beacons.ai/CodeQueens)
 ##
 
   
