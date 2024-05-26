@@ -11,26 +11,25 @@
 <!-- ### Hi! I'm Joanne, but you can call me JOJO -->
 
 - 🇧🇷 I'm a developer from **Brazil**
-- 💻 I'm looking to learn more about programming every day.  <!-- <img width="25px" src="https://media.giphy.com/media/xT9IgjNENUaf4ypqBa/giphy.gif" /> -->
+- 💻 I'm Programmer, and UX Designer.  <!-- <img width="25px" src="https://media.giphy.com/media/xT9IgjNENUaf4ypqBa/giphy.gif" /> -->
 - 👩‍🎓 **I'm a student of Information Systems at the Federal University of Sergipe** 
 - 🧠 Developer at @ [Sinu-Tech](https://github.com/Sinu-Tech)
 - 🧠 Leader of [Code Queens](https://beacons.ai/CodeQueens)
+- 💻 Currently work as a FullStack at [The Human Project](https://www.thehumanproject.org.br)
 ##
 
   
-<div align="center">
+<div >
   <a href="https://github.com/piyushsuthar/github-readme-quotes">
      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quotes card">
   </a>
 </div>
 
 <div align="center"> 
-  
+<!--  
 ![skills](https://skillicons.dev/icons?i=c,cpp,cs,dotnet,java,py,javascript,html,css,mysql,md,git,figma,vscode,visualstudio&theme=dark)
 </div>
-
- ![Snake animation](https://github.com/joannestephany/joannestephany/blob/output/github-contribution-grid-snake.svg)
-
+-->
 
 <!--
 by : jojo ✨ UWU
