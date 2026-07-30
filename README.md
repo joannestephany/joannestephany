@@ -11,7 +11,7 @@
 <!-- ### Hi! I'm Joanne, but you can call me JOJO -->
 
 - 🇧🇷 I'm a developer from **Brazil**  <img width="25px" src="https://media.giphy.com/media/xT9IgjNENUaf4ypqBa/giphy.gif" />
-- 👩‍🎓 **I'm a student of Information Systems at the Federal University of Sergipe** 
+- 👩‍🎓 **I hold a degree in Information Systems at the Federal University of Sergipe** 
 - 🧠 Developer at @ [Sinu-Tech](https://github.com/Sinu-Tech)
 - 🧠 Founding Member of [Code Queens](https://beacons.ai/CodeQueens)
 - 💻 Currently work at [The Human Project](https://www.thehumanproject.org.br)
